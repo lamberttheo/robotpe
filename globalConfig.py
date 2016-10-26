@@ -4,12 +4,12 @@ lastHTTPrequest = 0
 
 # Email informations
 mailFrom = "anymail@yourhost.tld"
-mailTo = "yourmail@yourhost.tld"
-mailUsername = "yourmail@yourhost.tld"
+mailTo = "..."
+mailUsername = "..."
 mailPassword = "your_strong_password"
 mailStartTLS = True # True or None
 mailSMTPserver = "smtp.provider.tld"
-mailSMTPport = "587"
+mailSMTPport = "..."
 
 # Arduino conf
 maxServoAngle = 120 # /255
